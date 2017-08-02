@@ -1,4 +1,4 @@
-#Volume Telephony
+# Volume Telephony
 This is a simple gimmick application to change the volume based on an old rotary telephone
 
 ## Using
